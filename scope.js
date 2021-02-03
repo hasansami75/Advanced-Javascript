@@ -5,8 +5,7 @@ function sum(first, second){
 }
 
 
-
-var day = 'friday';
 console.log(day);
+var day = 'friday';
 const output = sum(3, 7);
 console.log(output);
